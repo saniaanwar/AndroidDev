@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Owl Application</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_main3">MainActivity3</string>
+    <string name="title_activity_main4">MainActivity4</string>
+    <string name="title_activity_main5">MainActivity5</string>
+
+
+    <!--One topic-->
+    <string name="course1">Artificial Intelligence</string>
+    <string name="topic1">The Power of AI in Modern Society</string>
+    <string name="subheading1_1">AI\'s Ubiquitous Influence on Daily Life</string>
+    <string name="text1_1">Artificial Intelligence (AI) has emerged as a transformative technology that is reshaping various aspects of our lives. From self-driving cars to personalized digital assistants, AI is becoming increasingly integrated into our daily routines. Its ability to process vast amounts of data, recognize patterns, and make informed decisions has opened up new possibilities across industries, including healthcare, finance, and education. AI is poised to revolutionize the way we work and interact with machines, making our lives more efficient and convenient.</string>
+
+    <string name="subheading1_2">Automation and Ethical Considerations in AI</string>
+    <string name="text1_2">One of the most significant developments in AI is its role in automating tasks that were once performed exclusively by humans. Machine learning algorithms can now analyze vast datasets to make predictions, while natural language processing enables chatbots and virtual assistants to understand and respond to human language. This not only enhances productivity but also raises questions about the potential impact on employment and job markets. As AI continues to advance, ethical considerations, privacy concerns, and regulations surrounding its use are becoming increasingly important, highlighting the need for responsible AI development and deployment.</string>
+
+
+    <!--Two topic-->
+    <string name="course2">NEOM</string>
+    <string name="topic2">Saudi Arabia\'s Futuristic Megacity Project</string>
+    <string name="subheading2_1">Vision for NEOM</string>
+    <string name="text2_1">NEOM is a groundbreaking project initiated by Saudi Arabia, aimed at creating a futuristic city and economic zone in the northwestern part of the country. This visionary endeavor is positioned to transform the nation\'s economy and society by focusing on cutting-edge technologies, renewable energy, and sustainability. NEOM is envisioned as a hub for innovation, research, and development across various sectors, fostering an environment for technological advancements and economic diversification.</string>
+
+    <string name="subheading2_2">Key Features and Ambitions</string>
+    <string name="text2_2">NEOM is set to cover an extensive area, featuring a diverse range of assets and amenities.
+\n\n
+        The project\'s key pillars include AI-driven infrastructure, advanced healthcare, robotics, and automated mobility, emphasizing a high quality of life for its residents. With a strong emphasis on sustainable practices, Neom is also committed to environmental conservation and is striving to become a global leader in renewable energy.
+\n\n
+ As a cornerstone of Saudi Arabia\'s Vision 2030, Neom embodies the kingdom\'s aspiration to reduce its reliance on oil revenues and create a vibrant, knowledge-based economy that fosters innovation and entrepreneurship.
+\n\n
+With a focus on technological innovation, sustainable living, and economic diversification, NEOM has the potential to be a game-changer for the region. However, its success hinges on various factors, including attracting global investments, overcoming logistical challenges, and ensuring political stability.
+\n\n
+The project faces criticism and skepticism due to its massive scale and the complex geopolitical landscape of the Middle East. Whether NEOM will ultimately succeed or not remains uncertain, but it undoubtedly represents a bold and forward-thinking vision for Saudi Arabia\'s future.</string>
+
+
+    <!--Three topic-->
+    <string name="course3">Meta\'s Smart Glasses</string>
+    <string name="topic3">Revolutionizing Augmented Reality Experiences</string>
+    <string name="subheading3_1">Capabilities</string>
+    <string name="text3_1">Meta\'s smart glasses, also known as the "Metaverse Glasses," represent a significant leap in the field of augmented reality (AR). These sleek and stylish eyewear devices are designed to seamlessly blend the digital and physical worlds. Users can interact with digital information and virtual objects overlaid onto their real-world surroundings. From receiving real-time navigation guidance to accessing contextual information, the glasses provide a hands-free, immersive experience. They also enable users to engage in video calls, capture photos and videos, and share their perspective with friends and colleagues, enhancing communication and social interaction.</string>
+
+    <string name="subheading3_2">Applications</string>
+    <string name="text3_2">Meta\'s smart glasses offer a wide range of practical applications that can enhance various aspects of daily life.
+\n\n
+These glasses can assist with navigation, making it easier to find your way in unfamiliar environments or locate points of interest. They can be used for educational purposes, overlaying information and graphics to enhance learning experiences.
+\n\n
+ In the workplace, professionals can use them for remote collaboration, getting real-time advice, and sharing their perspective with colleagues, improving productivity and communication. Moreover, the glasses have the potential to revolutionize the gaming and entertainment industry by providing immersive and interactive experiences. As technology continues to advance, Meta\'s smart glasses have the potential to play a pivotal role in shaping the future of augmented reality and how we interact with the digital world.
+\n
+However, just like any emerging technology, these glasses have the potential to raise concerns and pose challenges. Privacy is a significant issue, as these glasses can record and transmit audio and video, potentially infringing on the privacy of individuals without their consent. The seamless integration of augmented reality into daily life could also lead to distractions and safety concerns, as users may become engrossed in their digital environments at the expense of their physical surroundings.</string>
+
+    <!--Four topic-->
+    <string name="course4">Augmented Reality</string>
+    <string name="topic4">A Glimpse into the Future</string>
+    <string name="subheading4_1">The Current State of Augmented Reality
+</string>
+    <string name="text4_1">Augmented reality (AR) has made remarkable strides in recent years, becoming more accessible to consumers through smartphones and smart glasses. Today, AR applications are used for gaming, navigation, and enhancing user experiences in various industries.
+\n\n
+Companies like Apple, Google, and Meta (formerly Facebook) are investing heavily in AR technology, fueling its rapid development. AR apps, such as Pokémon Go and Snapchat filters, have already demonstrated the potential of this technology to merge the digital and physical worlds seamlessly.
+\n\n
+Augmented reality (AR) is currently helping in various fields, such as medicine, by assisting surgeons with real-time data during procedures, enhancing remote collaboration, and improving training and education for healthcare professionals.</string>
+
+    <string name="subheading4_2">Anticipating Future Horizons</string>
+    <string name="text4_2">The future of augmented reality holds immense promise. In the coming years, we can expect AR to be integrated into our daily lives in even more meaningful ways. AR glasses and headsets are likely to become more commonplace, offering immersive experiences for education, work, and entertainment.
+\n\n
+Industries such as healthcare and retail are poised to benefit from AR\'s ability to provide real-time information, visualization, and remote collaboration. Moreover, as AR hardware and software continue to advance, we can anticipate more lifelike and interactive experiences that will transform how we learn, work, and connect with the world around us. With ongoing innovation and investment, augmented reality is poised to be a transformative force in the way we perceive and interact with our environment in the future.
+        \n\n
+The future of augmented reality (AR) is poised for significant growth, with AR technology becoming more accessible and seamlessly integrated into our daily lives. AR is expected to revolutionize industries such as education, healthcare, and remote work by providing immersive experiences and real-time information.
+        \n\n
+As AR hardware and software evolve, we can anticipate more natural and intuitive interactions, ultimately blurring the line between the physical and digital worlds.
+        \n\n
+Furthermore, the future of AR holds the potential for enhanced entertainment and gaming experiences, offering users new dimensions of interactive and immersive entertainment.
+\n\n
+In a rapidly evolving technological landscape, augmented reality is poised to redefine the way we perceive and interact with the world around us, promising a future filled with endless possibilities and transformative experiences.
+</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_main6">MainActivity6</string>
+
+
+</resources>
